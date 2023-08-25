@@ -10,4 +10,4 @@ Adding fifth line.
 
 Adding sixth line.
 
-The toothbrush requires patience.
+The toothbrush requires patience. Lots of patience.
